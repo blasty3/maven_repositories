@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 14:05:44 EEST 2018
+gluegen-1.0.pom>=
+gluegen-1.0.jar>=

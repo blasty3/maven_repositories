@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 08 14:04:59 EEST 2018
+worldwindx-1.0.jar>=
+worldwindx-1.0.worldwindxpack>=
+worldwindx-1.0.pom>=
